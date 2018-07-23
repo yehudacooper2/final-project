@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Files_Search_Project\Files_Search_Project\bin\Debug\Files_Search_Project.exe.config
+C:\Users\User\source\repos\Files_Search_Project\Files_Search_Project\bin\Debug\Files_Search_Project.exe
+C:\Users\User\source\repos\Files_Search_Project\Files_Search_Project\bin\Debug\Files_Search_Project.pdb
+C:\Users\User\source\repos\Files_Search_Project\Files_Search_Project\obj\Debug\Files_Search_Project.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Files_Search_Project\Files_Search_Project\obj\Debug\Files_Search_Project.exe
+C:\Users\User\source\repos\Files_Search_Project\Files_Search_Project\obj\Debug\Files_Search_Project.pdb
+C:\Users\User\source\repos\Files_Search_Project\Files_Search_Project\bin\Debug\BLL.dll
+C:\Users\User\source\repos\Files_Search_Project\Files_Search_Project\bin\Debug\DAL.dll
+C:\Users\User\source\repos\Files_Search_Project\Files_Search_Project\bin\Debug\BLL.pdb
+C:\Users\User\source\repos\Files_Search_Project\Files_Search_Project\bin\Debug\DAL.pdb
+C:\Users\User\source\repos\Files_Search_Project\Files_Search_Project\obj\Debug\Files_Search_Project.csprojResolveAssemblyReference.cache
